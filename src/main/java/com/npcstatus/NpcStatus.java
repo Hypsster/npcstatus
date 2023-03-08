@@ -14,7 +14,7 @@ import net.runelite.client.plugins.PluginDescriptor;
 
 @Slf4j
 @PluginDescriptor(
-        name = "NPC Statis",
+        name = "NPC Status",
         enabledByDefault = false
 
 )
